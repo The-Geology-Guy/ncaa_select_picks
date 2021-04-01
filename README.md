@@ -41,9 +41,51 @@ All products of the SLAM project are licensed under an [MIT License](LICENSE) un
 
 # Install Python Package
 
-```pip install ncaa_select_picks```
+```pip install ncaa-select-picks```
 
-### System Requirements
+### Use the Bracket Selector
+
+``` python
+import ncaa_select_picks as nsp
+
+nsp.pick_brackets(region_names=['EAST', 'WEST', 'SOUTH', 'MIDWEST'])
+
+```
+OUTPUT:
+
+### East
+First Round: ((1, 8), (2, 7), (3, 6), (4, 5))  
+Second Round: ((1, 4), (2, 6))  
+Regional Semifinals: [1, 6]  
+Regional Finals: 6  
+
+### WEST
+First Round: ((1, 8), (2, 7), (3, 6), (4, 12))  
+Second Round: ((1, 4), (2, 6))  
+Regional Semifinals: [1, 2]  
+Regional Finals: 1  
+
+### SOUTH
+First Round: ((1, 8), (2, 10), (3, 6), (4, 5))  
+Second Round: ((8, 4), (2, 3))  
+Regional Semifinals: [8, 3]  
+Regional Finals: 8  
+
+### MIDWEST
+First Round: ((1, 9), (2, 7), (3, 6), (4, 5))  
+Second Round: ((1, 5), (2, 6))  
+Regional Semifinals: [1, 2]  
+Regional Finals: 2  
+
+### National Semifinals
+EAST: 6  
+SOUTH: 8  
+
+### Champion: SOUTH, Seed 8
+
+
+
+## System Requirements
 
 This project is developed using Python. There should be no issues with these projects running on Mac, Windows, or Linux. If there are any issues, please submit an issue and it will be investigated.
 
