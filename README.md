@@ -5,7 +5,7 @@ Every year, millions of people across the globe tune into the madness of the NCA
 ![Show Image](https://upload.wikimedia.org/wikipedia/en/thumb/2/28/March_Madness_logo.svg/220px-March_Madness_logo.svg.png)
 ###### Image source: https://upload.wikimedia.org/wikipedia/en/thumb/2/28/March_Madness_logo.svg/220px-March_Madness_logo.svg.png
 
-The madness does not just stay on the court, as millions of people each year will fill out brackets in hope that their's will be one of the well known perfect brackets. This perfect bracket is, of course, just improbable, as there are about $1.27\times10^{89}$ different combinations of outcomes for a 64 team bracket. Still, the infintesimal probability does not stop people from filling out multiple brackets, with the hope of having at least the best in their office!
+The madness does not just stay on the court, as millions of people each year will fill out brackets in hope that their's will be one of the well known perfect brackets. This perfect bracket is, of course, just improbable, as there are about <img src="https://latex.codecogs.com/gif.latex?1.27\times10^{89}"/> different combinations of outcomes for a 64 team bracket. Still, the infintesimal probability does not stop people from filling out multiple brackets, with the hope of having at least the best in their office!
 
 - **Round 1:** 64 teams split into 4 regions with 16 teams in each region (_region names change year to year_)
 - **Round 2:** 32 teams remain in total, split between the 4 regions with 8 teams remaining in each region
