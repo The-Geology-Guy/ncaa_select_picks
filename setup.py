@@ -16,7 +16,7 @@ setup(
     author='Luke Pajer',
     author_email='luke.pajer@gmail.com',
     url='https://github.com/The-Geology-Guy/ncaa_select_picks',
-    download_url='https://github.com/The-Geology-Guy/ncaa_select_picks/archive/refs/tags/v0.0.1.tar.gz',
+    download_url='https://github.com/The-Geology-Guy/ncaa_select_picks/archive/refs/tags/v0.0.2.tar.gz',
     license='MIT',
     packages=['ncaa_select_picks'],
     install_requires=[
