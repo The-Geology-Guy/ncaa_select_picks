@@ -22,7 +22,6 @@ setup(
     install_requires=[
         'numpy',
         'IPython',
-        'random',
     ],
     include_package_data=True,
     classifiers=[
