@@ -8,7 +8,7 @@ _Last Updated: April 2021_
 [![License](https://img.shields.io/badge/LICENSE-mit-43B02A.svg)](/LICENSE)
 [![jupyterlab](https://img.shields.io/badge/jupyterlab-0.35.4-F37821.svg)](https://jupyterlab.readthedocs.io/en/stable/)
 [![python](https://img.shields.io/badge/python-3.6.5-yellow.svg)](https://jupyterlab.readthedocs.io/en/stable/)
-[![wiki](https://img.shields.io/badge/wiki-complete-orange)](https://github.com/The-Geology-Guy/ncaa_select_picks/wiki)
+[![wiki](https://img.shields.io/badge/wiki-incomplete-orange)](https://github.com/The-Geology-Guy/ncaa_select_picks/wiki)
 
 # PROJECT OVERVIEW
 
