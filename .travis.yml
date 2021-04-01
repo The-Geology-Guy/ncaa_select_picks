@@ -1,0 +1,18 @@
+sudo: false
+
+language:
+  - python
+
+python:
+  - 3.8
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - pycodestyle ncaa_select_picks
+  - pytest --verbose --capture=no ncaa_select_picks
+  - pip install .
+
+notifications:
+  email: false
