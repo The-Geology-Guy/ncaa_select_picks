@@ -16,7 +16,7 @@ _Last Updated: April 2021_
 The purpose of the ncaa_select_picks repository is two fold:
 
 1. Provide Python package that those more experienced with Python may use to fill out NCAA Men\'s March Madness brackets who just want to fill out a bracket for fun. _Remember that this is no better than random, so this should not be used for any financial investments._
-2. Provide an easy to use Python notebook for anyone to use to develop their understanding of Python and algorithms. This may be used in a classroom or at an individual level. I encourage people to adapt this to other playoff brackets of other sports! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Geology-Guy/ncaa_select_picks/blob/main/predict_picks.ipynb)
+2. Provide an easy to use Python notebook for anyone to use to develop their understanding of Python and algorithms. This may be used in a classroom or at an individual level. I encourage people to adapt this to other playoff brackets of other sports! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Geology-Guy/ncaa_select_picks/blob/main/Notebooks/predict_picks.ipynb)
 
 
 **_Disclaimer: the package should be used for fun or research/education purposes. It should not be used for any financial investment as it is likely no better than random at predicting picks. If you or a loved one has any issues with Gambling, please contact the National Gambling hotline at 1-800-522-4700._**
