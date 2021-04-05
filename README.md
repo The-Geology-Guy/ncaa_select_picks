@@ -19,7 +19,7 @@ The purpose of the ncaa_select_picks repository is two fold:
 2. Provide an easy to use Python notebook for anyone to use to develop their understanding of Python and algorithms. This may be used in a classroom or at an individual level. I encourage people to adapt this to other playoff brackets of other sports! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Geology-Guy/ncaa_select_picks/blob/main/Notebooks/predict_picks.ipynb)
 
 
-**_Disclaimer: the package should be used for fun or research/education purposes. It should not be used for any financial investment as it is likely no better than random at predicting picks. If you or a loved one has any issues with Gambling, please contact the National Gambling hotline at 1-800-522-4700._**
+**_Disclaimer: the package should be used for fun or research/education purposes. It should not be used for any financial investment as it is likely no better than random at predicting picks. If you or someone you know has any issues with Gambling, please contact the National Gambling hotline at 1-800-522-4700._**
 
 If there are any issues or concerns regarding the `ncaa_select_picks` package or notebook, please reach out to [Luke Pajer](mailto:luke.pajer@gmail.com).
 
